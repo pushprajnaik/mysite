@@ -1,0 +1,35 @@
+header,footer{
+
+    background-color: black ;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    clear: left;
+    }
+li a{ display:block;
+
+  padding: 10px;
+
+  }
+  
+
+  li a:hover{
+
+    background-color:black;
+    color :red;
+
+  }
+  ul{  list-style-type: none;
+      padding: 0;
+      margin: 30PX;
+      width: 200px;
+      background-color: #EEE;
+  }
+  ul a{text-decoration: none ;}
+.art1{
+
+    margin: 250px;
+    border-left: 1px solid blue;
+    padding: 5px;
+    overflow: hidden;
+}
